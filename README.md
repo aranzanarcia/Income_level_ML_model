@@ -10,7 +10,6 @@ Random Forest Classifier model to predict Income Level
 ![Captura de pantalla (81)](https://github.com/aranzanarcia/Income_level_ML_model/assets/165634773/5ca46d1e-51c0-4362-84a3-66e6a9260ccf)
 ![Captura de pantalla (82)](https://github.com/aranzanarcia/Income_level_ML_model/assets/165634773/ce19ea7d-cb2d-4c25-9bb9-986592da3145)
 ![Captura de pantalla (83)](https://github.com/aranzanarcia/Income_level_ML_model/assets/165634773/c17e2c87-1150-4183-8589-951023f604d7)
-![Captura de pantalla (84)](https://github.com/aranzanarcia/Income_level_ML_model/assets/165634773/158f1031-d8dc-4d86-8fec-1ed244fcef0c)
 ![Captura de pantalla (85)](https://github.com/aranzanarcia/Income_level_ML_model/assets/165634773/a8bba68a-e656-44a7-bfea-b7a14a331fcb)
 
 
